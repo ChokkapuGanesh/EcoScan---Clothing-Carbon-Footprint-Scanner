@@ -5,7 +5,7 @@
 
 ## **1. Overview**
 
-EcoScan is a web application that empowers users to assess the environmental impact of their clothing choices. By analyzing images of clothing items, the app calculates their carbon footprint, assigns eco reward points based on eco savings, and provides a catalog of redeemable offers. The solution is designed as a full stack application, with a React based front end and a Python-based backend using Flask/FastAPI.
+EcoScan is a web application that empowers users to assess the environmental impact of their clothing choices. By analyzing images of clothing items, the app calculates their carbon footprint, assigns eco reward points based on eco savings, and provides a catalog of redeemable offers.  The solution is designed as a full stack application, with a React based front end and a Python-based backend using Flask/FastAPI.
 
 
 ## **2. Goals and Features**
